@@ -1,6 +1,7 @@
 # Protocol-Specification
-
 /* Basic trust */
+```
+
 {
   "id": "KRBDm5sAKcmj84fj8qUsNAEROCRm7tBWU3utQss77AU=",
   "created": 1524569738,
@@ -104,3 +105,5 @@ Its a way for sharing trust between servers.
   ]
 }
 */
+
+```
